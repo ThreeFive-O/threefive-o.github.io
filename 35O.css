@@ -1,0 +1,13 @@
+html {
+    font-family: sans-serif;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(ellipse at 0 50%, rgba(3,220,202,1) 0%,rgb(0, 164, 229) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    user-select: none;
+}
+
+.big {
+    font-size: 5.3em;
+}
